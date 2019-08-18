@@ -1,0 +1,9 @@
+os: osx
+osx_image: xcode11
+language: minimal
+addons:
+  homebrew:
+    taps: ns408/homebrew-examples
+    packages: example-command
+    #update: true
+#script: example-command
