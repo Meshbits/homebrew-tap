@@ -3,6 +3,8 @@
 homebrew tap for applications that we use regularily and will continue to
 support.
 
+[![Build Status](https://travis-ci.org/Meshbits/homebrew-tap.svg?branch=master)](https://travis-ci.org/Meshbits/homebrew-tap)
+
 ## Enable the tap
 
 ```shell
